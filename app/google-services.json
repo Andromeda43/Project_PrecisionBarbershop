@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528531589",
+    "project_id": "mapsbarbershop",
+    "storage_bucket": "mapsbarbershop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528531589:android:0a978e01dcfae1e41a69ec",
+        "android_client_info": {
+          "package_name": "com.example.proyectoappmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528531589-b7itt0fkks41oo329eubps4q45v5v3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6udlz9Zh-6CXWfK97-gtPxO8Givc8mOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528531589-b7itt0fkks41oo329eubps4q45v5v3jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
